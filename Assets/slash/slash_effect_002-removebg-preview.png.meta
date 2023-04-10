@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 842169d4762200049ba43047b110b156
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 475
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b26afbc8545fe346909cc06f500fcc0
+      internalID: -1711926521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 470
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a032b46758c64c985241f2f6ba46b
+      internalID: -1084336129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 469
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960fd7d947567074badf803434d541c4
+      internalID: -987614451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 470
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39a7d87062616648a2a80a50be15cc9
+      internalID: 1175235865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 483
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398672fa32d4c9b48854334701ee56e8
+      internalID: 1401381580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 378
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7985a4319750b96438b47339c1b7c771
+      internalID: -1862846455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 379
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76cf23477f7d0a4eb12d36ce827dbac
+      internalID: -802449904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 385
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b033691339a5b45a502be52d221ddd
+      internalID: -1563457546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 420
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec70f70d7c9bf44d864bdaeeb5c75e5
+      internalID: -1554550523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 381
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f011a76339f064280ae0d6ba728a69
+      internalID: -1008060762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 294
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93462cbd62a53a345afb44d1090c3cbe
+      internalID: 1244592330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 295
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c65c8e39bbb2846adc3c87da4c24b1
+      internalID: 2095077061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 298
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf5689f10419dc43a45d454748b2671
+      internalID: 932810920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 333
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b513b0193ed1441a6148f9c4d32b29
+      internalID: -744754795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 295
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7949fb9b24512bc45a61596fabb3f0ce
+      internalID: 1014432522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 208
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb77e8d9e873343b46e3f40bb2e5de
+      internalID: 2069001188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 209
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bcfb07be4597d4b835ad06a5de4a56
+      internalID: 491699807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 209
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0565f05d8906647aa9f9e2cf1b552b
+      internalID: 486807320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 206
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bab9b20ff4f5f48b6887dfed39532e
+      internalID: 760622351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 207
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c848255161d25cd44be7cf976a7b410f
+      internalID: 1509377816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 110
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053a6cd6a50072943a12f782f59f13fc
+      internalID: -1687660750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 85
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a635356d60bfe41a31d13c5047f73f
+      internalID: -1393496749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 86
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e187042bfd2c4c43b9d0fd65667de26
+      internalID: -325819489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 58
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651ea9a9ad8600f48a90bfae40388afb
+      internalID: 143021416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 121
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fdc60c8cb3c7d46aea2ea9e952a80d
+      internalID: -914949713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 95
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb915b3a8a06c3c4f989b66e59a4b717
+      internalID: 989545841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slash_effect_002-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 23
+        width: 9
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164ac005eb9a7c7478a2db6308d5697b
+      internalID: 764156272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      slash_effect_002-removebg-preview_25: 989545841
+      slash_effect_002-removebg-preview_2: -987614451
+      slash_effect_002-removebg-preview_15: 2069001188
+      slash_effect_002-removebg-preview_4: 1401381580
+      slash_effect_002-removebg-preview_26: 764156272
+      slash_effect_002-removebg-preview_1: -1084336129
+      slash_effect_002-removebg-preview_22: -325819489
+      slash_effect_002-removebg-preview_17: 486807320
+      slash_effect_002-removebg-preview_9: -1008060762
+      slash_effect_002-removebg-preview_0: -1711926521
+      slash_effect_002-removebg-preview_7: -1563457546
+      slash_effect_002-removebg-preview_11: 2095077061
+      slash_effect_002-removebg-preview_5: -1862846455
+      slash_effect_002-removebg-preview_10: 1244592330
+      slash_effect_002-removebg-preview_8: -1554550523
+      slash_effect_002-removebg-preview_16: 491699807
+      slash_effect_002-removebg-preview_18: 760622351
+      slash_effect_002-removebg-preview_24: -914949713
+      slash_effect_002-removebg-preview_21: -1393496749
+      slash_effect_002-removebg-preview_14: 1014432522
+      slash_effect_002-removebg-preview_20: -1687660750
+      slash_effect_002-removebg-preview_23: 143021416
+      slash_effect_002-removebg-preview_6: -802449904
+      slash_effect_002-removebg-preview_12: 932810920
+      slash_effect_002-removebg-preview_19: 1509377816
+      slash_effect_002-removebg-preview_3: 1175235865
+      slash_effect_002-removebg-preview_13: -744754795
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 0d60741cbffee4d45afd558610104367
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: C06_MON_0
+  - first:
+      213: 21300002
+    second: C06_MON_1
+  - first:
+      213: 21300004
+    second: C06_MON_2
+  - first:
+      213: 21300006
+    second: C06_MON_3
+  - first:
+      213: 21300008
+    second: C06_MON_4
+  - first:
+      213: 21300010
+    second: C06_MON_5
+  - first:
+      213: 21300012
+    second: C06_MON_6
+  - first:
+      213: 21300014
+    second: C06_MON_7
+  - first:
+      213: 21300016
+    second: C06_MON_8
+  - first:
+      213: 21300018
+    second: C06_MON_9
+  - first:
+      213: 21300020
+    second: C06_MON_10
+  - first:
+      213: 21300022
+    second: C06_MON_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: C06_MON_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 120
+        height: 118
+      alignment: 9
+      pivot: {x: 0.61462945, y: 0.3667737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79139af907ae704cb38f49fa8cff1cd
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 908
+        width: 117
+        height: 116
+      alignment: 9
+      pivot: {x: 0.34044263, y: 0.24589486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea38051bd3362e94c96aa8c048faa620
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 820
+        width: 321
+        height: 204
+      alignment: 9
+      pivot: {x: 0.4816348, y: 0.09542547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143652ee719a38c45a703384c7852950
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 930
+        width: 73
+        height: 94
+      alignment: 9
+      pivot: {x: 0.31156775, y: 0.1968754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e493fccbee5ed438f1e34113bff89c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_4
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 848
+        width: 267
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79c960cc7af3b14896a71500eba70ca
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_5
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 446
+        width: 337
+        height: 366
+      alignment: 9
+      pivot: {x: 0.50583076, y: 0.40872592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c8cd7bc779a5f4bb437073f1956e56
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 630
+        height: 465
+      alignment: 9
+      pivot: {x: 0.5530258, y: 0.30560538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb14edd8108eef47ab5694406fe5ad4
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 510
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea107f575db59f4b85862f10983134e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 191
+        height: 113
+      alignment: 9
+      pivot: {x: 0.8549481, y: 0.81734073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df64bce14ef5b4885b87bbd28a2bee
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 77
+        width: 112
+        height: 181
+      alignment: 9
+      pivot: {x: 0.3157741, y: 0.84741616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f3d042f99a9ae43a22b6d107c3a8ad
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 138
+        width: 95
+        height: 117
+      alignment: 9
+      pivot: {x: 0.51034194, y: 0.80231875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e46077510ff4db43b04c6966847b663
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C06_MON_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 106
+        width: 121
+        height: 153
+      alignment: 9
+      pivot: {x: 0.43503892, y: 0.795403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a260231a3d5d4f9115b138c1c72ea
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aee3a29e083e1f942af7d7cd7bd02b98
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      C06_MON_1: 21300002
+      C06_MON_6: 21300012
+      C06_MON_4: 21300008
+      C06_MON_5: 21300010
+      C06_MON_10: 21300020
+      C06_MON_2: 21300004
+      C06_MON_7: 21300014
+      C06_MON_3: 21300006
+      C06_MON_8: 21300016
+      C06_MON_0: 21300000
+      C06_MON_11: 21300022
+      C06_MON_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

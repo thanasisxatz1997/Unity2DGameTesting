@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 0f91480dce82cc4418507122ea57c9ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: mummy_mon_0
+  - first:
+      213: 21300002
+    second: mummy_mon_1
+  - first:
+      213: 21300004
+    second: mummy_mon_2
+  - first:
+      213: 21300006
+    second: mummy_mon_3
+  - first:
+      213: 21300008
+    second: mummy_mon_4
+  - first:
+      213: 21300010
+    second: mummy_mon_5
+  - first:
+      213: 21300012
+    second: mummy_mon_6
+  - first:
+      213: 21300014
+    second: mummy_mon_7
+  - first:
+      213: 21300016
+    second: mummy_mon_8
+  - first:
+      213: 21300018
+    second: mummy_mon_9
+  - first:
+      213: 21300020
+    second: mummy_mon_10
+  - first:
+      213: 21300022
+    second: mummy_mon_11
+  - first:
+      213: 21300024
+    second: mummy_mon_12
+  - first:
+      213: 21300026
+    second: mummy_mon_13
+  - first:
+      213: 21300028
+    second: mummy_mon_14
+  - first:
+      213: 21300030
+    second: mummy_mon_15
+  - first:
+      213: 21300032
+    second: mummy_mon_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mummy_mon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 504
+        height: 489
+      alignment: 9
+      pivot: {x: 0.6821839, y: 0.1571116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21718bb8f3733434da24a0d76d650998
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 753
+        width: 137
+        height: 271
+      alignment: 9
+      pivot: {x: 0.24502407, y: 0.7872623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea74f5c70a3ffc43a20c6ab257f090e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 383
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb8227b1abbe3f48aee238e42cd73cf
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 165
+        height: 283
+      alignment: 9
+      pivot: {x: 0.5181464, y: 0.7715546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956779e8537a93045b40cd12e92c9ba0
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 47
+        width: 189
+        height: 319
+      alignment: 9
+      pivot: {x: 0.48415798, y: 0.8504129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f11a06b2084f44c90bc6ba9bb9d439
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 14
+        width: 292
+        height: 247
+      alignment: 9
+      pivot: {x: 0.8486343, y: 0.79901123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e52ff16bcf124489a8b18b6495a1d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 261
+        width: 224
+        height: 135
+      alignment: 9
+      pivot: {x: 0.43762207, y: 0.67743146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd16bb7d70773544a298d1902602ffe
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 934
+        width: 126
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e225aad7f69bc49ac588070a9d9a14
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 832
+        width: 119
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ed29aeda07bf5499f51fcbb1b0a866
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 677
+        width: 152
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc6fa75f141c6e428d1ba3f9f2b0eb7
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_10
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 673
+        width: 117
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45da7c1d8c6921449333eba25ac9c6c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_11
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 526
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f426037d8caa46942a6304f4999d77a7
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 427
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363321afad33bc04395e0eda15cafa9c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 66
+        width: 365
+        height: 436
+      alignment: 9
+      pivot: {x: 0.5519536, y: 0.30313686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbd49871f803a84fbd9e42819c011d8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 508
+        width: 373
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41094689dbde5b4b941162159c4ad9e
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 678
+        width: 214
+        height: 208
+      alignment: 9
+      pivot: {x: 0.27147552, y: 0.77830386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94ce28d26cd0c8459052d0aa4511a39
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy_mon_16
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 887
+        width: 226
+        height: 137
+      alignment: 9
+      pivot: {x: 0.61482036, y: 0.6457016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283185939566e0442afc95028da83939
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9d1e117c3d863444ab41ab5c896e5f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mummy_mon_2: 21300004
+      mummy_mon_7: 21300014
+      mummy_mon_8: 21300016
+      mummy_mon_10: 21300020
+      mummy_mon_11: 21300022
+      mummy_mon_3: 21300006
+      mummy_mon_16: 21300032
+      mummy_mon_5: 21300010
+      mummy_mon_14: 21300028
+      mummy_mon_9: 21300018
+      mummy_mon_0: 21300000
+      mummy_mon_1: 21300002
+      mummy_mon_12: 21300024
+      mummy_mon_4: 21300008
+      mummy_mon_6: 21300012
+      mummy_mon_13: 21300026
+      mummy_mon_15: 21300030
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
