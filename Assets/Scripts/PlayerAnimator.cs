@@ -44,7 +44,7 @@ public class PlayerAnimator : MonoBehaviour
     {
         if (player.IsMoving())
         {
-            if (player.IsRunning() && player.GetRunningAttackCD() <= 0)
+            if (player.IsRunning() && player.IsTouchingGround() && player.GetRunningAttackCD() <= 0)
             {
                 animator.SetTrigger(RUNNINGATTACK_TRIGGER);
                 player.SetRunningAttackCD(1.5f);

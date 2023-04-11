@@ -10604,6 +10604,11 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!4 &1173979793 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5010781677617021260, guid: eb2381fb2acaae84e967d1114480024b, type: 3}
+  m_PrefabInstance: {fileID: 5010781678033882913}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1194569229
 GameObject:
   m_ObjectHideFlags: 0
@@ -12359,6 +12364,10 @@ PrefabInstance:
       propertyPath: itemDisplayPoint
       value: 
       objectReference: {fileID: 5010781678033882914}
+    - target: {fileID: 1297459602304623962, guid: eb2381fb2acaae84e967d1114480024b, type: 3}
+      propertyPath: crateVisualsTransform
+      value: 
+      objectReference: {fileID: 1173979793}
     - target: {fileID: 5010781677617021260, guid: eb2381fb2acaae84e967d1114480024b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -12421,11 +12430,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5528176534355694456, guid: eb2381fb2acaae84e967d1114480024b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 5528176534355694456, guid: eb2381fb2acaae84e967d1114480024b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.59
+      value: 0.54
       objectReference: {fileID: 0}
     - target: {fileID: 5528176534355694456, guid: eb2381fb2acaae84e967d1114480024b, type: 3}
       propertyPath: m_LocalRotation.x

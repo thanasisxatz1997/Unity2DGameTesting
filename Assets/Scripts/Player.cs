@@ -52,7 +52,7 @@ public class Player : MonoBehaviour
     private float maxMoveSpeed = 0.16f;
     private float lasty;
     private float dashTrailTimer = 0f;
-    private float maxDashTrailTimer = 0.4f;
+    private float maxDashTrailTimer = 0.3f;
 
     private int healingPotionCount=0;
     private int throwingObjectsCount=5;
@@ -60,6 +60,7 @@ public class Player : MonoBehaviour
     private bool isFalling = false;
     private bool isAttacking;
     private bool isJumping;
+    private bool isDashing = false;
     
     private void Awake()
     {
@@ -98,14 +99,18 @@ public class Player : MonoBehaviour
             Vector2 dashDir = gameInput.GetMoveInputNormalized();
             if (dashDir.y > 0)
             {
-                dashDir = new Vector2(dashDir.x, dashDir.y + 0.4f);
+                dashDir = new Vector2(dashDir.x, dashDir.y);
             }
             Debug.Log("dashDir= " + dashDir);
-            playerRigidbody.AddForce(dashDir * 300f);
+            playerRigidbody.velocity = Vector3.zero;
+            playerRigidbody.angularVelocity = 0f;
+            playerRigidbody.gravityScale = 0f;
+            playerRigidbody.AddForce(dashDir * 700f);
             OnPlayerDash?.Invoke(this, EventArgs.Empty);
             dashTrailTransform.gameObject.SetActive(true);
             dashTrailTimer = maxDashTrailTimer;
             dashCd = maxDashCd;
+            isDashing= true;
         }
     }
 
@@ -130,7 +135,7 @@ public class Player : MonoBehaviour
 
     private void GameInput_OnPlayerJump(object sender, EventArgs e)
     {
-        if (!IsJumping() && IsTouchingGround() && !IsFalling())
+        if (!IsJumping() && IsTouchingGround() && !IsFalling() && !isDashing)
         {
             isJumping = true;
             playerRigidbody.AddForce(new Vector2(1, jumpHeight));
@@ -142,7 +147,7 @@ public class Player : MonoBehaviour
     private void GameInput_OnPlayerAttack(object sender, EventArgs e)
     {
         OnPlayerAttack?.Invoke(this, EventArgs.Empty);
-        if (IsRunning() && runningAttackCD <= 0)
+        if (IsRunning() &&IsTouchingGround() && runningAttackCD <= 0)
         {
             playerRigidbody.AddForce(new Vector2(-200f * moveDir.x, 0f));
         }
@@ -150,7 +155,10 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        HandleMovement();
+        if (!isDashing)
+        { 
+            HandleMovement(); 
+        }
         if (IsTouchingGround())
         {
             isJumping = false;
@@ -178,6 +186,13 @@ public class Player : MonoBehaviour
         }
         if (dashTrailTimer <= 0f)
         {
+            if (isDashing)
+            {
+                playerRigidbody.velocity = Vector2.zero;
+                playerRigidbody.angularVelocity = 0f;
+                playerRigidbody.gravityScale = 2.2f;
+            }
+            isDashing = false;
             dashTrailTransform.gameObject.SetActive(false);
         }
         lasty = transform.position.y;
